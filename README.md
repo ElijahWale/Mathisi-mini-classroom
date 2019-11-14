@@ -1,2 +1,14 @@
+<div align="center">
+
+![EOS](http://eosminiclassroom.000webhostapp.com/New Mathisi Mockup/New Home.png)
+
+<br>
+
+</div>
+
 # Mathisi-mini-classroom
-A PHP mini classroom management app built with OOP 
+A mini classroom management app built with HTML, CSS, Javascript, Bootstarp, PHP OOP and MySQL.
+
+# To view the final Build
+- Visit [EosClassroom](http://eosminiclassroom.000webhostapp.com/)
+
