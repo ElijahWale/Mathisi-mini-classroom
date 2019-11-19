@@ -19,6 +19,7 @@ A mini classroom management app built with HTML, CSS, Javascript, Bootstarp, PHP
 - [Bello Fatima Modupe](https://github.com/TechieTee)
 - [jaylukmann](https://github.com/jaylukmann)
 - [Ogunlaja Oreoluwa](https://github.com/Ore-cathy)
+- [Godwin Ikot](https://github.com/Godwin-Ikott)
 
 **BACKEND**
 - [Asifat Kazeem Adeniyi](https://github.com/Kazeeem)
