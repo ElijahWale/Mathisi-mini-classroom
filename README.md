@@ -4,14 +4,6 @@ A mini classroom management app built with HTML, CSS, Javascript, Bootstarp, PHP
 # To view the final Build
 - Visit [EosClassroom](http://eosminiclassroom.000webhostapp.com/)
 
-<div align="center">
-
-![EOS](http://eosminiclassroom.000webhostapp.com/New-Mathisi-Mockup/New-Home.png)
-
-<br>
-
-</div>
-
 # Contributors to this project
 
 **UI DESIGNER**
@@ -30,3 +22,11 @@ A mini classroom management app built with HTML, CSS, Javascript, Bootstarp, PHP
 **BACKEND**
 - [Asifat Kazeem Adeniyi](https://github.com/Kazeeem)
 - [Chukwuemeka](https://github.com/Emex4gman)
+
+<div align="center">
+
+![EOS](http://eosminiclassroom.000webhostapp.com/New-Mathisi-Mockup/New-Home.png)
+
+<br>
+
+</div>
