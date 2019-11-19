@@ -3,6 +3,7 @@ A mini classroom management app built with HTML, CSS, Javascript, Bootstarp, PHP
 
 # To view the final Build
 - Visit [EosClassroom](http://eosminiclassroom.000webhostapp.com/)
+- This project is an improved/modified version of the original version done by the group of people below during HNG Internship 6.0 [Check early version on HNG repositor](https://github.com/hngi/Team-EOS-Mini-Classroom)
 
 # Contributors to this project
 
